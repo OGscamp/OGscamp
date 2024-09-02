@@ -1,5 +1,5 @@
 # 💫 About Me:
-let jason = {<br>     age: 22,<br>     school: "California State University, Fullerton",<br>     interest: "Full stack development",<br>     semper: "fi"<br>};
+let jason = {<br>          age: 22,<br>     school: "California State University, Fullerton",<br>     interest: "Full stack development",<br>     semper: "fi"<br>};
 
 
 ## 🌐 Socials:
