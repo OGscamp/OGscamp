@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Jason! I am a Computer Science student at California State University, Fullerton.
+Hello, I'm Jason! I am a Computer Science student at California State University, Fullerton. I am working towards my goal of becoming a full-stack developer and this is where I'll be putting some of my projects. Hopefully my account doesn't look too boring.
 
 
 ## 🌐 Socials:
