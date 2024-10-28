@@ -1,5 +1,5 @@
 # 💫 About Me:
-let jason = {<br>     age: 22,<br>     school: "California State University, Fullerton",<br>     interest: "Full stack development",<br>     semper: "fi"<br>};
+Hello, I'm Jason! I am a Computer Science student at California State University, Fullerton.
 
 
 ## 🌐 Socials:
